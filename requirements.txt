@@ -1,0 +1,3 @@
+ytmusicapi
+google-api-python-client
+python-dotenv
